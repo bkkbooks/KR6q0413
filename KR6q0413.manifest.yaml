@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0413_000.yaml, hash: 'sha256:1a4b9223c89e3aa7350711f7a18e0ca8c597800bba79c0285d4f343913382022'}
+  - {seq: 0, filename: KR6q0413_000.yaml, hash: 'sha256:5351ec9dbd0a625eb4f4b33f49b2ca92e4afab3099e1c6e1e84e2eeff779e0e4'}
   - {seq: 1, filename: KR6q0413_001.yaml, hash: 'sha256:1604149d1fcab8412c0cbcf8996537e305449ba70dd2692c8ca00dc77a1eecfd'}
   - {seq: 2, filename: KR6q0413_002.yaml, hash: 'sha256:4406cb0cec2973d0a6dce1699518b51d7f2140c263cc02cb81141ab783dd52a9'}
   - {seq: 3, filename: KR6q0413_003.yaml, hash: 'sha256:043081ae4cb0b930ee1f587628ed73c64b6ef905fd5eb2117452cc6546298038'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 11, filename: KR6q0413_011.yaml, hash: 'sha256:f8e8b4c1d3ad63fb418d0c7243c28bc97792c4cf4cb0c7dfb6c353fca88f37b1'}
   - {seq: 12, filename: KR6q0413_012.yaml, hash: 'sha256:512aaedccfa0e5d8a17f6e14055b212dc51d3aa01b06fc3908866749943d04e2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0413_000.markers.yaml, hash: 'sha256:d9a1113b1f3ae94f0ad2d713ea549c651d25eb0329c2669feff590071660cd23'}
+  - {seq: 0, role: markers, filename: assets/KR6q0413_000.markers.yaml, hash: 'sha256:e22b33f1a3b39c955602fba0057e255ac501931914eaa96a8bb94d98c6504ca8'}
   - {seq: 1, role: markers, filename: assets/KR6q0413_001.markers.yaml, hash: 'sha256:2cc15be8c5c5e066dd169614ee23d02762edc017c82a3322f00d5e92d30a9031'}
   - {seq: 2, role: markers, filename: assets/KR6q0413_002.markers.yaml, hash: 'sha256:d0e3df7690fafe7c457e763c47fec3fb7e7a0f870f5ce92deecbc0f2f42cbcdb'}
   - {seq: 3, role: markers, filename: assets/KR6q0413_003.markers.yaml, hash: 'sha256:ecb9eddea21ace64a6a9caa00c59688ef184f4916544ef36974d960c4fcb9b79'}
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0413_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 曹溪大休珠禪師六會語錄總序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0413_J_000-mulu-2
     span:
-    - front
+    - body
     - 1409
     - 1409
   label: 大休珠禪師語錄目錄
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0413_J_000-mulu-3
     span:
-    - front
+    - body
     - 1661
     - 1661
   label: 住曹溪南華禪寺語錄
@@ -2289,7 +2289,7 @@ table_of_contents:
   label: 又(無住莫居士請)
   type: mulu
   level: 1
-hash: sha256:bd1aaf52dbf5e122cc6e1caa354ad8ab93fc7f82be7d61924a3364dc126ce1a9
+hash: sha256:3230bc324e165d6c62c6b8e68b0b42747ca20743e7198cc860242cccd1672501
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
